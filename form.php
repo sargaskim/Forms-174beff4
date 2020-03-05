@@ -29,10 +29,6 @@
             </div>
         </form>
 
-        <?php
-
-            
-        ?>
     </main>
     
     <footer></footer>
